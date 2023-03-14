@@ -1,0 +1,7 @@
+@inproceedings{REPO-169,
+    author = {St{\"a}rk, Hannes and Ganea, Octavian and Pattanaik, Lagnajit and Barzilay, Regina and Jaakkola, Tommi},
+    booktitle = "International Conference on Machine Learning",
+    pages = "20503--20521",
+    title = "{Equibind: Geometric Deep Learning for Drug Binding Structure Prediction}",
+    year = "2022"
+}
